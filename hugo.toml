@@ -1,0 +1,6 @@
+baseURL = "https://<YourUsername>.github.io/synapseandweights/"
+languageCode = "en-us"
+title = "Synapse & Weights"
+theme = "ananke"
+author = "Pradeshi Khadka"
+description = "Brain scratchpad, human + AI learning, latent to emergent ideas"
