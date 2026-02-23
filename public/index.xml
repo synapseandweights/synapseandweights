@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Synapse &amp; Weights</title>
-    <link>http://localhost:1313/synapseandweights/</link>
+    <link>http://localhost:61132/synapseandweights/</link>
     <description>Recent content on Synapse &amp; Weights</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 20 Feb 2026 15:31:18 +1100</lastBuildDate>
-    <atom:link href="http://localhost:1313/synapseandweights/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:61132/synapseandweights/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Second Post</title>
-      <link>http://localhost:1313/synapseandweights/posts/second-post/</link>
+      <link>http://localhost:61132/synapseandweights/posts/second-post/</link>
       <pubDate>Fri, 20 Feb 2026 15:31:18 +1100</pubDate>
-      <guid>http://localhost:1313/synapseandweights/posts/second-post/</guid>
-      <description></description>
+      <guid>http://localhost:61132/synapseandweights/posts/second-post/</guid>
+      <description>&lt;p style=&#34;color: red; font-weight: bold&#34;&gt;&gt;&gt;&gt;&gt;&gt;  gd2md-html alert:  ERRORs: 0; WARNINGs: 0; ALERTS: 1.&lt;/p&gt;&#xA;&lt;ul style=&#34;color: red; font-weight: bold&#34;&gt;&lt;li&gt;See top comment block for details on ERRORs and WARNINGs. &lt;li&gt;In the converted Markdown or HTML, search for inline alerts that start with &gt;&gt;&gt;&gt;&gt;  gd2md-html alert:  for specific instances that need correction.&lt;/ul&gt;&#xA;&lt;p style=&#34;color: red; font-weight: bold&#34;&gt;Links to alert messages:&lt;/p&gt;&lt;a href=&#34;#gdcalert1&#34;&gt;alert1&lt;/a&gt;&#xA;&lt;p style=&#34;color: red; font-weight: bold&#34;&gt;&gt;&gt;&gt;&gt;&gt; PLEASE check and correct alert issues and delete this message and the inline alerts.&lt;hr&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;sir-slowsalot-and-agent-acorn-an-intuitive-view-of-the-kalman-filter&#34;&gt;&lt;strong&gt;Sir Slowsalot and Agent Acorn: An Intuitive View of the Kalman Filter&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;To build intuition for the Kalman filter, we will use a simple recurring scenario involving two characters:&lt;/p&gt;</description>
     </item>
     <item>
       <title>My First Post</title>
-      <link>http://localhost:1313/synapseandweights/posts/my-first-post/</link>
+      <link>http://localhost:61132/synapseandweights/posts/my-first-post/</link>
       <pubDate>Fri, 20 Feb 2026 14:35:08 +1100</pubDate>
-      <guid>http://localhost:1313/synapseandweights/posts/my-first-post/</guid>
+      <guid>http://localhost:61132/synapseandweights/posts/my-first-post/</guid>
       <description>&lt;p&gt;&amp;rsquo; hello this is my first post&#39;&lt;/p&gt;</description>
     </item>
   </channel>
